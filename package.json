@@ -9,9 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@feathersjs/express": "^4.5.1",
+    "@feathersjs/express": "github:feathersjs/express",
     "@feathersjs/feathers": "^4.5.1",
     "@feathersjs/socketio": "^4.5.1",
+    "expres": "0.0.5",
     "nodemon": "^2.0.2"
   }
 }
